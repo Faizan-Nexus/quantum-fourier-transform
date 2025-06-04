@@ -1,0 +1,10 @@
+# Python version compatibility
+python_version < 3.10
+
+# Qiskit core and Aer simulator
+qiskit==0.43.2
+qiskit-aer==0.12.0
+
+# Visualization libraries
+matplotlib==3.7.1
+numpy==1.24.3
