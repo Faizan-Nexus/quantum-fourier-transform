@@ -1,4 +1,4 @@
-# Quantum Fourier Transform (QFT) Project ⚛️📘
+# Quantum Fourier Transform (QFT) Project Using IBM Qiskit
 
 This project demonstrates the **Quantum Fourier Transform (QFT)** and its inverse using **Qiskit** in a single Jupyter Notebook.
 
