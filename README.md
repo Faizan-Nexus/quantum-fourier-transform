@@ -15,7 +15,9 @@ You will:
 quantum-fourier-transform/
 │
 ├── Qiskit.ipynb # ✅ All code and visualizations are here
+
 ├── requirements.txt # ✅ Dependencies with version constraints
+
 └── README.md # 📘 Project overview and instructions
 
 
